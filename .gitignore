@@ -1,3 +1,7 @@
-.idea/
+.idea/*
+sample_data/*
 elasticsearch/certs
 *.pyc
+.venv/*
+secrets/*
+!secrets/.gitkeep
